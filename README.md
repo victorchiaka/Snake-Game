@@ -1,11 +1,16 @@
 ## Snake Game
-    This is a very simple desktop Snake game made with Java and javax swing graphics API
+>This is a very simple desktop Snake game made with Java and javax swing graphics API
+
+<div style="display: flex; justify-content: center; background-color: bisque; padding: 1.3em; gap: 1.3em;">
+  <img src="public/preview.png" style="width: 21.3em;" alt="game sample image">
+  <img src="public/preview-2.png" style="width: 21.3em;" alt="game sample image">
+</div>
 
 ### Getting Started
 
 > To get this working on your machine
 #### NOTE: 
-    This is not an install binary therefore you cannot install it as a desktop application
+>This is not an installation binary therefore you cannot install it as a desktop application
 
 - clone the repo `https://github.com/victorchiaka/Snake-Game`
 - open in your favourite Java - supported IDE
